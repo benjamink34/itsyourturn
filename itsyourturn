@@ -1,0 +1,6 @@
+import turtle as trtl
+painter = trtl.Turtle()
+painter.oval(10)
+ 
+wn = trtl.Screen()
+wn.mainloop()
